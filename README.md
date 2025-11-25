@@ -3,7 +3,7 @@
 ## 💫 About Me
 **Passionate Developer | MERN Stack | Next.js | SaaS & PaaS Enthusiast**
 
-I'm a developer exploring full-stack technologies with a strong focus on building scalable applications. Skilled in MERN Stack, Next.js, PHP/MySQL, and others, I also explore multi-tenant SaaS and PaaS solutions. Interested in creating innovative tools and platforms that solve real-world problems.
+I'm a developer exploring full-stack technologies with a strong focus on building scalable applications. Skilled in MERN Stack, Next.js, PHP/MySQL and others, I also explore multi-tenant SaaS and PaaS solutions. Interested in creating innovative tools and platforms that solve real-world problems.
 
 ## 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pavan-k-c-1072082a1) 
